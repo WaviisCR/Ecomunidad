@@ -1,0 +1,96 @@
+/* Inserta tu codigo aqui */
+
+.img-header{
+    width: 90px;
+    height: 80px;
+    display: block;
+    margin:auto;
+}
+nav{
+    margin-top: 20px;
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    color:black;
+    padding: 20px;
+}
+.portada{
+    background-image: url(../img/semilla.jpg);
+    height: 325px;
+}
+.img{
+    width: 120px;
+    height: 120px;
+    display: block;
+    margin: auto;
+}
+.img-2{
+    background-image: url(../img/metodo.jpg);
+    height: 350px;
+}
+.img-3{
+    background-image: url(../img/fondo.jpg);
+    height: 350px;
+}
+
+.img-metod{
+    display: block;  
+    margin: auto;
+}
+h4{
+    margin-top: 25px;
+    font-family: OpenSans-Light;
+}
+.paragraph{
+    font-family: OpenSans-Light;
+    font-size: 15px;
+}
+h3{
+    font-family: OpenSans-Bold;
+}
+.f-color{
+    color: #5E8039;
+}
+.img-proyec{
+    width: 450px;
+    height: 300px;
+}
+.sec-proyec{
+    background-color:#5E8039;
+}
+.img-equipo{
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: 0px;
+}
+.img-redes{
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+}
+.slider{
+    background-image: url(../img/fondo2.jpg);
+}
+.img-size{
+    width: 90%;
+    
+}
+.img-slide{
+    margin-top: 145%;
+}
+.txt{
+    width: 90%;
+    font-family: OpenSans-Light;
+    font-size: 70%;
+}
+h5{
+    font-family: OpenSans-Light;
+}
