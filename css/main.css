@@ -90,7 +90,38 @@ h3{
     width: 90%;
     font-family: OpenSans-Light;
     font-size: 70%;
+    padding-bottom: 17%;
 }
 h5{
     font-family: OpenSans-Light;
+}
+/*Social*/
+.social-box{
+    width: 25%;
+    height: 200px;
+    border: solid white 1px;
+    margin-left: 0px;
+    color: white;
+}
+.social-bck{
+    background-color: gray;
+}
+.social-box a{
+    text-decoration: none;
+    color: white;
+    font-family: OpenSans-Light;
+}
+.social-box img{
+    width: 15%;
+    margin-left: 70%;
+    margin-top: 48%;
+}
+.social{
+    margin-top: 5%;
+}
+footer p{
+    font-family: OpenSans-Light;
+}
+footer{
+    background-color: #F2F2F2;
 }
