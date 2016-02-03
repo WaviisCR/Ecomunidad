@@ -1,4 +1,4 @@
-/* Inserta tu codigo aqui */
+/*HEADER*/
 
 .img-header{
     width: 90px;
@@ -20,6 +20,7 @@ a{
     color:black;
     padding: 20px;
 }
+/*PORTADA*/
 .portada{
     background-image: url(../img/semilla.jpg);
     height: 325px;
@@ -51,6 +52,7 @@ h4{
     font-family: OpenSans-Light;
     font-size: 15px;
 }
+/*SECT PROYECT*/
 h3{
     font-family: OpenSans-Bold;
 }
@@ -64,6 +66,7 @@ h3{
 .sec-proyec{
     background-color:#5E8039;
 }
+/*EQUIPO*/
 .img-equipo{
     width: 200px;
     border-radius: 50%;
@@ -76,6 +79,7 @@ h3{
     height: 40px;
     margin: 0px;
 }
+/*SLIDER*/
 .slider{
     background-image: url(../img/fondo2.jpg);
 }
@@ -119,6 +123,7 @@ h5{
 .social{
     margin-top: 5%;
 }
+/*FOOTER*/
 footer p{
     font-family: OpenSans-Light;
 }
